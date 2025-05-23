@@ -52,10 +52,10 @@ To provide business insights into churn behavior and enable proactive retention 
 ## 🔧 Tools & Technologies Used
 
 
-Power BI - Dashboard design & data storytelling 
-SQL Server (SSMS)- ETL, feature engineering, data cleansing 
-Python (Scikit-learn) - ML model training (Random Forest) 
-Excel/CSV - Data source format & exports 
+- Power BI - Dashboard design & data storytelling 
+- SQL Server (SSMS)- ETL, feature engineering, data cleansing 
+- Python (Scikit-learn) - ML model training (Random Forest) 
+- Excel/CSV - Data source format & exports 
 
 ---
 
